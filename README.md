@@ -2,7 +2,7 @@
 CLASES
 
 - CODIGO
-- ![image](https://github.com/user-attachments/assets/a3164593-6667-425a-ba2f-da494ceb06ce)
+![image](https://github.com/user-attachments/assets/0d0d8a10-7ae5-4814-aa33-e0dbde362aac)
 
  RESULTADO
 ![image](https://github.com/user-attachments/assets/d59bdbe1-f28c-4709-a7e2-aabc700fd382)
